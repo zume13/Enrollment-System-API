@@ -9,9 +9,11 @@
   <ItemGroup>
     <Folder Include="Contracts\" />
     <Folder Include="Messaging\" />
-    <Folder Include="Enroll\" />
-    <Folder Include="Login\" />
-    <Folder Include="Signup\" />
+    <Folder Include="Enrollment\Enroll\" />
+    <Folder Include="User\Login\" />
+    <Folder Include="Enrollment\" />
+    <Folder Include="User\" />
+    <Folder Include="User\Signup\" />
   </ItemGroup>
 
 </Project>
