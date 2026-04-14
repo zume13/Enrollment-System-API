@@ -1,1 +1,7 @@
-<Solution />
+<Solution>
+  <Project Path="EnrollmentSystem.API/EnrollmentSystem.API.csproj" />
+  <Project Path="EnrollmentSystem.Application/EnrollmentSystem.Application.csproj" />
+  <Project Path="EnrollmentSystem.Domain/EnrollmentSystem.Domain.csproj" />
+  <Project Path="EnrollmentSystem.Infrastructure/EnrollmentSystem.Infrastructure.csproj" />
+  <Project Path="SharedKernel/SharedKernel.csproj" />
+</Solution>

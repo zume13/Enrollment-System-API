@@ -6,4 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Contracts\" />
+    <Folder Include="Messaging\" />
+    <Folder Include="Enroll\" />
+    <Folder Include="Login\" />
+    <Folder Include="Signup\" />
+  </ItemGroup>
+
 </Project>
